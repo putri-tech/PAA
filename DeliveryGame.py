@@ -4,7 +4,7 @@ import math
 import heapq
 import random
 
-# Inisialisasi pygame
+# Inisialisasi pygam.. ffdffe
 pygame.init()
 
 # Ukuran layar
